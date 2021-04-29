@@ -1,6 +1,6 @@
 # Python_mini-project
 ## Space Shooter Game
- The Arcade Shooting game built using Pyhton
+ The Arcade Shooting game built using Python
  
  ## How To Play:
  1. Use "A" for moving left
