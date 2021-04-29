@@ -1,1 +1,3 @@
-# 291197_python_mini-project
+# Python_mini-project
+## Space Shooter Game
+
