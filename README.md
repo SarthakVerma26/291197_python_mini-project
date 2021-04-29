@@ -14,8 +14,8 @@
   <img src="https://github.com/SarthakVerma26/291197_python_mini-project/blob/main/Images/img1.png">
 </p>
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/291197_python_mini-project/tree/main/Images/img2.png">
+  <img src="https://github.com/SarthakVerma26/291197_python_mini-project/blob/main/Images/img2.png">
 </p>
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/291197_python_mini-project/tree/main/Images/img3.png">
+  <img src="https://github.com/SarthakVerma26/291197_python_mini-project/blob/main/Images/img3.png">
 </p>
