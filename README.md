@@ -1,7 +1,9 @@
 # Python_mini-project
+ Note: Use the Asset folder provided with the code to run the code successfully. 
+
 ## Space Shooter Game
  The Arcade Shooting game built using Python
- 
+  
  ## How To Play:
  1. Use "A" for moving left
  2. Use "D" for moving right
