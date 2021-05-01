@@ -1,5 +1,5 @@
 # Python_mini-project
- Note: Use the Asset folder provided with the code to run the code successfully. 
+ Note: Use the assets folder provided with the code to run the code successfully. 
 
 ## Space Shooter Game
  The Arcade Shooting game built using Python
